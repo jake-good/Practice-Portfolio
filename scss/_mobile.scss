@@ -42,7 +42,8 @@
       background: url("../img/portrait_small.jpg");
       width: 150px;
       height: 150px;
-      align-items: center;
+      background-position: center;
+      background-size: cover;
     }
   }
 }
